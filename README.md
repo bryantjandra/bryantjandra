@@ -70,7 +70,7 @@
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black)
 
 
-## 🏆 Notable Achievements & Projects (TikTok, WSAudiology, Start Coding):
+## 🏆 Notable Achievements & Projects @ TikTok, WSAudiology, Start Coding):
 
 **1.** Optimized distributed workers in Go by implementing async I/O, goroutine pooling, and context-based cancellation. This redesign improved throughput by 3.5×, cut P99 latency by 65%, and eliminated service timeouts across critical workloads handling 1M+ QPS, ensuring consistent reliability across production services.
 
