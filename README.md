@@ -1,8 +1,8 @@
 ## 📖 About me
 
-- **Experienced Software Engineer** with experience across Backend, Frontend, Fullstack, and Data Engineering. Interested in Artificial Intelligence, Large Language Models (LLMs), and entrepreneurial ventures.
+- **Experienced Software Engineer** with experience across **Backend, Frontend, Fullstack, and Data Engineering**. Interested in Artificial Intelligence, Large Language Models (LLMs), and entrepreneurial ventures.
 
-- **Final Year** Computer Science + Statistics Undergraduate at the National University of Singapore (NUS), **graduating in May 2026**. Recognized on the Dean’s List (Top 5% of cohort) for academic excellence.
+- **Final Year Computer Science + Statistics** Undergraduate at the National University of Singapore (NUS), **graduating in May 2026**. Recognized on the Dean’s List (Top 5% of cohort) for academic excellence.
 
 - I thrive in collaborative, entrepreneurial environments, where I can step outside my comfort zone, apply creative problem-solving, and build reliable, high-impact software that makes a difference.
 
@@ -12,17 +12,6 @@
 
 ## 💼 I'm currently open to: 
 - **2026 Graduate Software Engineer Opportunities (Backend, Fullstack, or Frontend)**
-
-## 🏆 Notable Achievements & Projects (TikTok, WSAudiology, Start Coding):
-
-1. Optimized distributed workers in Go by implementing async I/O, goroutine pooling, and context-based cancellation. This redesign improved throughput by 3.5×, cut P99 latency by 65%, and eliminated service timeouts across critical workloads handling 1M+ QPS, ensuring consistent reliability across production services.
-
-2. Built an AI-driven component playground that enabled Product Managers to prototype internal components via natural-language prompts. Backed by Golang APIs and knowledge-base slicing for efficient retrieval, the platform was adopted by 25+ PMs across 4 teams, reducing prototyping cycles by 80% and saving the company an estimated $500K annually.
-
-3. Designed a distributed RabbitMQ messaging system capable of ingesting and processing 500K+ daily device tests with fault tolerance, consumer load balancing, and real-time monitoring. This increased system uptime to 98.7%, eliminated bottlenecks during peak hours, and provided clear visibility into message flows across services.
-
-4. Architected a real-time virtual classroom platform using React, WebRTC, and Socket.IO to support live video conferencing and screen sharing. By building custom React hooks for peer-to-peer connections and integrating Redis-based background jobs, the system achieved <200ms average latency, supporting 100+ concurrent classrooms with reliable streaming quality.
-
 
 ## 🛠️ My skills:
 
@@ -79,6 +68,17 @@
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black)
+
+
+## 🏆 Notable Achievements & Projects (TikTok, WSAudiology, Start Coding):
+
+1. Optimized distributed workers in Go by implementing async I/O, goroutine pooling, and context-based cancellation. This redesign improved throughput by 3.5×, cut P99 latency by 65%, and eliminated service timeouts across critical workloads handling 1M+ QPS, ensuring consistent reliability across production services.
+
+2. Built an AI-driven component playground that enabled Product Managers to prototype internal components via natural-language prompts. Backed by Golang APIs and knowledge-base slicing for efficient retrieval, the platform was adopted by 25+ PMs across 4 teams, reducing prototyping cycles by 80% and saving the company an estimated $500K annually.
+
+3. Designed a distributed RabbitMQ messaging system capable of ingesting and processing 500K+ daily device tests with fault tolerance, consumer load balancing, and real-time monitoring. This increased system uptime to 98.7%, eliminated bottlenecks during peak hours, and provided clear visibility into message flows across services.
+
+4. Architected a real-time virtual classroom platform using React, WebRTC, and Socket.IO to support live video conferencing and screen sharing. By building custom React hooks for peer-to-peer connections and integrating Redis-based background jobs, the system achieved <200ms average latency, supporting 100+ concurrent classrooms with reliable streaming quality.
   
 
 ## 📫 How to reach me:
