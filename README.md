@@ -4,8 +4,6 @@
 
 - **Final Year Computer Science + Statistics** Undergraduate at the National University of Singapore (NUS), **graduating in May 2026**. Recognized on the Dean’s List (Top 5% of cohort) for academic excellence.
 
-- I thrive in collaborative, entrepreneurial environments, where I can step outside my comfort zone, apply creative problem-solving, and build reliable, high-impact software that makes a difference.
-
 ## 🔭 I'm currently working as:
 
 - Software Engineer Intern @ TikTok!
