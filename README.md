@@ -11,7 +11,7 @@
 - Software Engineer Intern @ TikTok!
 
 ## 💼 I'm currently open to: 
-- **2026 Graduate Software Engineer Opportunities (Backend, Fullstack, or Frontend)**
+- **2026 Fulltime Software Engineer Opportunities (Backend, Fullstack, or Frontend), starting from May 2026 onwards.**
 
 ## 🛠️ My skills:
 
