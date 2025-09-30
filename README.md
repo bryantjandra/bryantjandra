@@ -2,7 +2,7 @@
 
 - **Experienced Software Engineer** with experience across **Backend, Frontend, Fullstack, and Data Engineering**. Interested in Artificial Intelligence, Large Language Models (LLMs), and entrepreneurial ventures.
 
-- **Final Year Computer Science + Statistics** Undergraduate at the National University of Singapore (NUS), **graduating in May 2026**. Recognized on the Dean’s List (Top 5% of cohort) for academic excellence.
+- **Final Year Computer Science** Undergraduate at the National University of Singapore (NUS), **graduating in May 2026**. Recognized on the Dean’s List (Top 5% of cohort) for academic excellence.
 
 ## 🔭 I'm currently working as:
 
@@ -10,8 +10,6 @@
 
 ## 💼 I'm currently open to: 
 - **2026 Fulltime Software Engineer Opportunities (Backend, Fullstack, or Frontend), starting from May 2026 onwards.**
-
-## 🛠️ My skills:
 
 ## 🛠️ My skills:
 
