@@ -17,13 +17,11 @@
 
 1. Optimized distributed workers in Go by implementing async I/O, goroutine pooling, and context-based cancellation. This redesign improved throughput by 3.5×, cut P99 latency by 65%, and eliminated service timeouts across critical workloads handling 1M+ QPS, ensuring consistent reliability across production services.
 
-2. Built an AI-driven component playground that enabled Product Managers to prototype components via natural-language prompts. Backed by Golang APIs and knowledge-base slicing for efficient retrieval, the platform was adopted by 25+ PMs across 4 teams, reducing prototyping cycles by 80% and saving the company an estimated $500K annually.
+2. Built an AI-driven component playground that enabled Product Managers to prototype internal components via natural-language prompts. Backed by Golang APIs and knowledge-base slicing for efficient retrieval, the platform was adopted by 25+ PMs across 4 teams, reducing prototyping cycles by 80% and saving the company an estimated $500K annually.
 
 3. Designed a distributed RabbitMQ messaging system capable of ingesting and processing 500K+ daily device tests with fault tolerance, consumer load balancing, and real-time monitoring. This increased system uptime to 98.7%, eliminated bottlenecks during peak hours, and provided clear visibility into message flows across services.
 
 4. Architected a real-time virtual classroom platform using React, WebRTC, and Socket.IO to support live video conferencing and screen sharing. By building custom React hooks for peer-to-peer connections and integrating Redis-based background jobs, the system achieved <200ms average latency, supporting 100+ concurrent classrooms with reliable streaming quality.
-
-5. Developed a Retrieval-Augmented Generation (RAG) pipeline with LangChain and Pinecone to enhance chatbot performance in social work contexts. Applied query expansion, chain-of-thought prompting, and prompt testing, which improved response relevance by 35% and user-rated empathy scores by 42%, making the chatbot more effective in sensitive conversations.
 
 
 ## 🛠️ My skills:
